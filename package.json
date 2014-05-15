@@ -1,0 +1,11 @@
+{
+  "name" : "shoelace-ui-user-select",
+  "version" : "0.0.1",
+  "description" : "`user-select` transparent mixin",
+  "repository" : "https://github.com/shoelace-ui/user-select.git",
+  "keywords" : ["stylus", "shoelace", "user-select", "user", "select"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+  }
+}

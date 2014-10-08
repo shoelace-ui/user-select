@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-$ npm install git://github.com/shoelace-ui/user-select.git
+$ npm install shoelace-ui-user-select
 ```
 
 ## License

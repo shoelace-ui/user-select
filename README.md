@@ -1,11 +1,11 @@
 # user-select
 
-`user-select` transparent mixin.
+`user-select` transparent mixin
 
-## Installation
+## Usage
 
-```sh
-$ npm install shoelace-ui-user-select
+```stylus
+@require 'shoelace-ui-user-select'
 ```
 
 ## License
